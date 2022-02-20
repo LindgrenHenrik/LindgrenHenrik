@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lindgrendude
 - 👀 I’m interested in tech and science.
-- 🌱 I’m currently learning c++ @ learncpp.com
+- 🌱 I’m currently learning @stuff.
 - 💞️ I’m looking to collaborate on some cool stuff!
 - 📫 How to reach me www.linkedin.com/in/henrik-lindgren
 
