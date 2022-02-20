@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lindgrenHenrik
+- 👋 Hi, I’m @LindgrenHenrik
 - 👀 I’m interested in tech and science.
 - 🌱 I’m currently learning @stuff.
 - 💞️ I’m looking to collaborate on some cool stuff!
